@@ -1,6 +1,6 @@
 # AnimationGame
 
-This is an interactive game made by me and two group members for an undergrad animation class at UT.
+This is an interactive game made by me and two group members for an undergrad animation class at UT Austin.
 
 For this project I created the Enemy class, the EnemyCollection class, and the stars in the background.
 
