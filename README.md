@@ -4,7 +4,9 @@ This is an interactive game made by me and two group members for an undergrad an
 
 For this project I created the Enemy class, the EnemyCollection class, and the stars in the background.
 
-To run the program: download processing, hit the clone button on the repository,
+To run the program first download Processing, then download all of the files and open the AnimationGame.pde file inside of the AnimationGame folder and click Run! Be sure to click the AnimationGame.pde inside of the folder and be sure the folder is named AnimationGame or the file will not run.
+
+You can download processing here -> https://processing.org/download/
 
 The Game:
 - In the Welcome Screen, you can simply choose 1 player or 2 players
