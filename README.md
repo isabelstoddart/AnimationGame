@@ -4,6 +4,8 @@ This is an interactive game made by me and two group members for an undergrad an
 
 For this project I created the Enemy class, the EnemyCollection class, and the stars in the background.
 
+To run the program: download processing, hit the clone button on the repository,
+
 The Game:
 - In the Welcome Screen, you can simply choose 1 player or 2 players
 - player shoots the enemies. The enemies will come down the screen at different speed
