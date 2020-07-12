@@ -2,7 +2,7 @@
 
 This is an interactive game made by me and two group members for an undergrad graphics class at UT Austin.
 
-For this project I created the Enemy class, the EnemyCollection class, and the stars in the background.
+For this project I created the Enemy class, the EnemyCollection class, and the background design.
 
 To run the program first download Processing, then download all of the files and open the AnimationGame.pde file inside of the AnimationGame folder and click Run! Be sure to click the AnimationGame.pde inside of the folder and be sure the folder is named AnimationGame or the file will not run.
 
