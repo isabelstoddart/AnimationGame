@@ -1,13 +1,6 @@
 # AnimationGame
-
-This is an interactive game made by me and two group members for an undergrad graphics class at UT Austin.
-
-For this project I created the Enemy class, the EnemyCollection class, and the background design.
-
-To run the program first download Processing, then download all of the files and open the AnimationGame.pde file inside of the AnimationGame folder and click Run! Be sure to click the AnimationGame.pde inside of the folder and be sure the folder is named AnimationGame or the file will not run.
-
-You can download processing here -> https://processing.org/download/
-
+## This is an interactive game made by me and two group members for an undergrad graphics class at UT Austin.
+### Description
 The Game:
 - In the Welcome Screen, you can simply choose 1 player or 2 players
 - player shoots the enemies. The enemies will come down the screen at different speed
@@ -63,3 +56,11 @@ ArrowPad <- arrows
 A		 <- Alt		(Please avoid, alt may be faulty because of its use in modern OS)
 B		 <- Ctrl
 Start    <- Enter
+
+### How to Run
+To run the program first download Processing, then download all of the files and open the AnimationGame.pde file inside of the AnimationGame folder and click Run! Be sure to click the AnimationGame.pde inside of the folder and be sure the folder is named AnimationGame or the file will not run.
+
+You can download processing here -> https://processing.org/download/
+
+### Contribution
+For this project I created the Enemy class, the EnemyCollection class, and the background design.
